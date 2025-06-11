@@ -2,7 +2,7 @@ A deep learning approach for ECG arrhythmia classification that combines handcra
 
 This code implements a hybrid machine learning model for automated ECG arrhythmia detection and classification. The system processes ECG signals from the MIT-BIH Arrhythmia Database and classifies heartbeats into 5 AAMI (Association for the Advancement of Medical Instrumentation) standard classes.
 
-Feature Categories (37 Total)
+**Feature Categories (37 Total)**
 
 Statistical Features (8): Mean, standard deviation, variance, skewness, kurtosis, min/max values
 Peak Detection (4): Number of peaks, R-peak amplitude and position, QRS duration
